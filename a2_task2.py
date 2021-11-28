@@ -4,7 +4,7 @@ import random
 Topic:              Assignment 2 - Simulating disease spread
 Task number:        2
 Author:             Vivekkumar Vitthalbhai Chaudhari
-Student ID:         31265154
+Student ID:         312###
 Task Description:   Creating Patient class objects from a file with basic required properties(including health points) 
                     and add a social connection to his friends(also a Patient objects). Simulate with number of days to finds out virus spread. 
 """
