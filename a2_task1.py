@@ -2,7 +2,7 @@
 Topic:              Assignment 2 - Simulating disease spread
 Task number:        1
 Author:             Vivekkumar Vitthalbhai Chaudhari
-Student ID:         31265154
+Student ID:         312###
 Task Description:   Creating Person class objects from a file with basic properties and add a social connection to his friends(also a Person objects).
 """
 
