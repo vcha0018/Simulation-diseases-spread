@@ -4,7 +4,7 @@ from a2_31265154_task2 import *
 Topic:              Assignment 2 - Simulating disease spread
 Task number:        3
 Author:             Vivekkumar Vitthalbhai Chaudhari
-Student ID:         31265154
+Student ID:         312###
 Task Description:   Visualize virus spread over days through 2D plot graph.
 Scenario A:         
     Input:          Days = 30, Meeting probability = 60% and Patient zero health points = 25
